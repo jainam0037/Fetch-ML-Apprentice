@@ -11,11 +11,11 @@ This repository contains the implementation of a multi-task sentence transformer
 4. Layer-wise Learning Rate Implementation (BONUS)
 
 ## Project Structure
-my_docker_project/
-├── Dockerfile
-├── requirements.txt
-├── your_notebook.ipynb
-├── README.md
+my_docker_project/__
+├── Dockerfile__
+├── requirements.txt__
+├── your_notebook.ipynb__
+├── README.md__
 
 
 
