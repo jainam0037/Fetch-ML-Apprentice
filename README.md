@@ -147,6 +147,10 @@ docker build -t my_jupyter_image .
 
 docker run -p 8888:8888 my_jupyter_image
 
+OR 
+docker pull jainamshah0037/fetchmultitask
+
+
 ### Access the Jupyter Notebook
 Open your web browser and navigate to http://127.0.0.1:8888. Use the token provided in the terminal to access your Jupyter notebook.
 
